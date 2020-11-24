@@ -1,13 +1,13 @@
 ---
 layout: collection
-title: "A design history for your GOV.UK service"
-description: "Document and share design decisions. Create a permanent record of how your service has developed over time."
+title: "A design history for EYFS"
+description: "Documentation for design decisions maintained for early years foundation stage framework (EYFS). "
 pagination:
   data: collections.all
   reverse: true
   size: 50
 posts:
-  title: Getting started
+  title: Phases
 eleventyComputed:
   eleventyNavigation:
     key: home
