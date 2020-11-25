@@ -1,3 +1,3 @@
 module.exports = {
-  productName: 'EYFS – design history'
+  productName: 'EYFS design history'
 }
