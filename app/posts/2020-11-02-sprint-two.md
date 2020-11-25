@@ -20,6 +20,9 @@ Focus for sprint two involved around:
 
 ![Guidance document for EYFS, version 1](/images/sprint-two/01-guidance-doc--v1.png)
 
+**Hypothesis to validate**
+We believe that [vast majority of] practitioners will need a user-friendly written guide to the reforms to enable them to understand what the changes mean to them.
+
 **User need**
 I need to know what the changes mean for me and my role so that I am able to do something about it and be ready for Ofsted.
 
@@ -31,23 +34,24 @@ I need to know what the changes mean for me and my role so that I am able to do 
 
 ![Concept of practical support for EYFS](/images/sprint-two/02-practical-support__concept-a--v1.png)
 
-
 **Hypothesis to validate**
 We believe that practitioners need help identifying areas they need additional support in.
 
 **Underlying user need**
 I need to be able to easily find and access relevant guidance and training so that I know what is good quality and suitable for me.
+<hr>
+
 
 ### Practical support – concept B (v1)
 
 ![Concept of practical support for EYFS - concept b](/images/sprint-two/03-practical-support__concept-b--v1.png)
 
-
 **Hypothesis to validate**
-We believe that practitioners need help identifying areas they need additional support in.
+We believe that [some] practitioners need practical support on the specific parts of the framework that have changed in order for them to implement the changes.
 
 **Underlying user need**
-I need to be able to easily find and access relevant guidance and training so that I know what is good quality and suitable for me.
+* I need a source of support so that I can learn from other settings and managers and I don't feel isolated
+* I need guidance and training to be free so that I am not prevented from accessing it
 
 <hr>
 

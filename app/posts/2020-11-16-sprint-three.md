@@ -22,6 +22,10 @@ Focus for sprint three involved around understanding:
 
 ![Guidance document for EYFS, version 1](/images/sprint-three/01-guidance-doc--v2.png "Screenshot of the guidance document, version 2")
 
+
+**Hypothesis to validate**
+We believe that [vast majority of] practitioners will need a user-friendly written guide to the reforms to enable them to understand what the changes mean to them.
+
 **User need**
 I need to know what the changes mean for me and my role so that I am able to do something about it and be ready for Ofsted.
 
@@ -52,10 +56,13 @@ Testing whether a forum type approach might be useful for users to ask questions
 
 
 **Hypothesis to validate**
-We believe that practitioners need help identifying areas they need additional support in.
+* We believe that practitioners need help identifying areas they need additional support in
+* We believe that [some] practitioners will need additional support to enable them to implement changes
 
-**Underlying user need**
-I need to be able to easily find and access relevant guidance and training so that I know what is good quality and suitable for me.
+**Underlying user needs**
+* I need to be able to easily find and access relevant guidance and training so that I know what is good quality and suitable for me
+* I need an instant response to my questions, so that I am not feeling stressed about doing my job wrong
+* I need training on the reforms for me and my team, so that I can check my knowledge and make sure we are all doing the right thing
 
 <hr>
 
