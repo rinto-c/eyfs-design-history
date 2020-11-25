@@ -1,6 +1,6 @@
 ---
 title: Sprint three
-description: "Sprint dates – 16-11-2020 — 27-11-2020"
+description: "Sprint dates 16 - 27 November 2020"
 date: 2020-11-16
 ---
 
