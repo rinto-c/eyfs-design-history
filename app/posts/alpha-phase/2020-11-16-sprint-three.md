@@ -30,13 +30,13 @@ We believe that [vast majority of] practitioners will need a user-friendly writt
 
 I need to know what the changes mean for me and my role so that I am able to do something about it and be ready for Ofsted.
 
-[Link to prototype](https://eyfs-content.netlify.app/early-years/sprint-3/help-for-early-years-providers-and-professionals/)
+[Link to prototype](https://eyfs-content.netlify.app/early-years/sprint-3/resources/changes-to-the-early-years-foundation-stage-framework-v2/)
 
 * * *
 
 ### Practical support – concept A (v2)
 
-Collection page or landing page – [link to prototype](https://eyfs-content.netlify.app/early-years/sprint-3/resources/changes-to-the-early-years-foundation-stage-framework-v2/)
+Collection page or landing page – [link to prototype](https://eyfs-content.netlify.app/early-years/sprint-3/help-for-early-years-providers-and-professionals/)
 
 ![Collection page](/images/sprint-three/02-practical-support--v2.png)
 
