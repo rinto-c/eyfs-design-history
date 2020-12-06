@@ -61,14 +61,35 @@ Testing whether a forum type approach might be useful for users to ask questions
 #### Hypothesis to validate
 
 * We believe that practitioners need help identifying areas they need additional support in
+
 * We believe that [some] practitioners will need additional support to enable them to implement changes
 
 #### Underlying user needs
 
 * I need to be able to easily find and access relevant guidance and training so that I know what is good quality and suitable for me
+
 * I need an instant response to my questions, so that I am not feeling stressed about doing my job wrong
+
 * I need training on the reforms for me and my team, so that I can check my knowledge and make sure we are all doing the right thing
 
 * * *
 
 ## User insights
+
+* All user groups desire more depth of detail in key elements of the reforms, such as how to work with the broader age bands, and how this will fit with OFSTED
+
+* It should be possible to meet this user need by continuing to iterate the planned content and prototype
+
+* The interaction between the reforms in practice and OFSTED is a key piece of missing information
+
+* The content of the page is more important to users than the delivery method
+
+* Hearing from experts is less of a priority and the named experts weren’t familiar to our users
+
+* Childminders tended to be more supportive of the option of an online ‘support forum’ than PVI users
+
+* Users tend not to have a preference for training provided on gov.uk or linked out to other sites
+
+* There is no ‘one size fits all’ training solution
+
+* Live webinars, designed to replicate face-to-face training, are increasingly popular
