@@ -1,4 +1,4 @@
-# Design history Help for early years providers – service
+# Design history — Help for early years providers
 
 <https://eyfs-design-history.netlify.app/>
 
