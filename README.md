@@ -1,8 +1,6 @@
-# Design history for GOV.UK services
+# Design history Help for early years providers – service
 
-A place for you to document your GOV.UK service designs.
-
-<https://design-history.herokuapp.com>
+<https://eyfs-design-history.netlify.app/>
 
 ## Purpose of this project
 
