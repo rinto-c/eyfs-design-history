@@ -40,3 +40,5 @@ They don't envisage changing the way they plan and implement activities for most
 * We should be mindful to provide example activities for the full range of age groups covered by the EYFS. Failure to do so will imply the area is not relevant for all ages
 
 * Practitioners rely on Development Matters to baseline, observe and plan next steps for children
+
+* Practitioners are familiar and comfortable with identifying training needs (disproved our hypothesis that our users need help identifying areas they need additional support)

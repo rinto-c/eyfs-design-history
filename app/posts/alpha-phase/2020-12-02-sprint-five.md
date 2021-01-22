@@ -28,8 +28,6 @@ Whilst the sprint four findings were still being analysed, we had a product dire
 
 #### Hypothesis to validate
 
-* We believe that practitioners need help identifying areas they need additional support in
-
 * We believe that [some] practitioners will need additional support to enable them to implement changes
 
 #### User need
