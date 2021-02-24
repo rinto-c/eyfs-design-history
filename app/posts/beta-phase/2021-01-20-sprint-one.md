@@ -63,6 +63,7 @@ We have also opted the use of additional publication components such as back to 
 * navigation on desktop and mobile worked really well – users did not get stuck from completing the tasks set out to them – observed how they navigate from one topic to an other sub-topic in a different section
 * mobile users relied on breadcrumbs to navigate around different topic areas missing the menu button at the top to navigate other toipics
 * navigation on mobile needs rethinking – users did not find the menu button in the header until prompted
+* navigation on mobile needs rethinking – users did not find the menu button in the header until prompted
 * sidebar navigation was used sparingly by the user – main navigational element was breadcrumbs and it worked really well
 * order of information for landing page needs adjusting so users won't overlook 'Get help to improve your practice' section
 * users expressed their interest for splitting the area of learning, sub-categories by age
