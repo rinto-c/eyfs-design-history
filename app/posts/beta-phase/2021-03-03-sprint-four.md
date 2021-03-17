@@ -37,4 +37,11 @@ We wanted to test the navigation really well to understand whether any modificat
 
 ## User insights
 
-* awaiting insights
+* Positive end to end testing of the service. Users could navigate between different areas of the site and displayed a clear understanding of the site structure
+
+* All users started at the areas of learning section, initially clicking on Communication & language - either because they are working through it systematically, because their early focus is on the prime areas or because they have heard it one of the main areas changed under the reforms
+
+* The overall feel of the content continued to test well. The length of each section is not causing any problems and the structure resonates with users. Areas that particularly stood out were: anything with age-related expectations attached; activity ideas and how each area of learning links with other areas of learning (but only when there were hyperlinks to those other areas)
+
+* The design changes on mobile navigation did not make a functional impact to the user's journey within the service. Users continued to use browser back button and breadcrumbs to navigate on mobile screens.
+
